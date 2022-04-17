@@ -1,4 +1,4 @@
-# Group Distribution
+# Group Contribution
 
 ### Group G1: Perform Optimizations and Front End
 - Jayasurya Nalamolu
