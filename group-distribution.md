@@ -1,13 +1,15 @@
 # Group Distribution
 
-### Group G1: Front End
-- Aditya Shekhar
+### Group G1: Perform Optimizations and Front End
 - Jayasurya Nalamolu
-- Jayesh Salunkhe
-- Hariharan Parmar
-
-### Group G2: Back End
-- Rahul Patel
-- Robin Kumar
-- Sahil Ingale
 - Vivek Modi
+- Sahil Ingale
+- Rahul Patel
+
+
+
+### Group G2: Implementing the Optimized Queries in the Back End
+- Robin Kumar
+- Hariharan Parmar
+- Jayesh Salunkhe
+
