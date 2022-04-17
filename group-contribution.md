@@ -13,3 +13,4 @@
 - Hariharan Parmar
 - Jayesh Salunkhe
 
+All the group members have contributed equally.
